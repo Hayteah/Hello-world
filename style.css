@@ -1,0 +1,26 @@
+#title {
+  color: blue;
+  background-color: rgb(221, 221, 221);
+  border: 1px solid darkgray;
+}
+
+.paragraph {
+  color: green;
+  background-color: rgba(248, 248, 7, 0.5);
+}
+
+p {
+  color: red;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+  color: rgb(196, 0, 196);
+  font-style: italic;
+}
